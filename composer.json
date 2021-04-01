@@ -1,0 +1,14 @@
+{
+    "name": "jhoncytech/proyecto-base-b4",
+    "description": "Proyecto Base con Bootstrap 4, Gulp.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhonny A. Gomez S.",
+            "email": "jhonny@jhoncytech.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
